@@ -40,6 +40,13 @@ public class AmazonSearchResults extends BaseTest{
 	Boolean match  = driver.findElement(By.cssSelector("span#productTitle")).getText().equalsIgnoreCase(Expectedstr);
 	Assert.assertTrue(match);
 	
+	
+	
+	System.out.println("New file changes");
+
+	System.out.println("New file changes");
+
+	System.out.println("New file changes");
 	}
 
 }
