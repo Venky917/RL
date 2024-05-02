@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-08T14:45:21 IST" name="Suite" finished-at="2022-12-08T14:47:21 IST" duration-ms="120281">
+    <groups>
+    </groups>
+    <test started-at="2022-12-08T14:45:21 IST" name="Test" finished-at="2022-12-08T14:47:21 IST" duration-ms="120281">
+      <class name="VenkateshAcademy.AmazonSearch.AmazonSearchResults">
+        <test-method is-config="true" signature="initializedriver()[pri:0, instance:VenkateshAcademy.AmazonSearch.AmazonSearchResults@47caedad]" started-at="2022-12-08T14:45:21 IST" name="initializedriver" finished-at="2022-12-08T14:45:43 IST" duration-ms="22367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializedriver -->
+        <test-method signature="amazonsearch()[pri:0, instance:VenkateshAcademy.AmazonSearch.AmazonSearchResults@47caedad]" started-at="2022-12-08T14:45:43 IST" name="amazonsearch" finished-at="2022-12-08T14:47:16 IST" duration-ms="93069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonsearch -->
+        <test-method is-config="true" signature="Closebrowser()[pri:0, instance:VenkateshAcademy.AmazonSearch.AmazonSearchResults@47caedad]" started-at="2022-12-08T14:47:17 IST" name="Closebrowser" finished-at="2022-12-08T14:47:21 IST" duration-ms="3721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closebrowser -->
+      </class> <!-- VenkateshAcademy.AmazonSearch.AmazonSearchResults -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
